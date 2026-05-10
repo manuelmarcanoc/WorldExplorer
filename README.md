@@ -4,7 +4,13 @@ Aplicacion movil desarrollada en Flutter que permite buscar cualquier pais del m
 
 La app integra dos APIs REST publicas: REST Countries para los datos del pais (bandera, capital, poblacion, idiomas, monedas, fronteras) y Open-Meteo para el clima actual y la prevision de 7 dias de la capital. Incluye sistema de favoritos, historial de busquedas, mapa interactivo, modo oscuro y soporte para grados Celsius y Fahrenheit. Todo persiste entre sesiones.
 
-![Pantalla principal](cap1.png)
+## Capturas de pantalla
+
+![Buscador de paises](cap3.png)
+
+![Detalle del pais con bandera y datos principales](cap1.png)
+
+![Datos adicionales del pais](cap2.png)
 
 ## Instrucciones
 
